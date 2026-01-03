@@ -1,5 +1,13 @@
-<h1 align="center">Hey 👋 What's Up? I'm Omar Mostafa</h1>
+<h1 align="center">Hey, What's Up? I'm Omar Mostafa</h1>
 <h3 align="center">AI Full Stack Developer</h3>
+
+###
+
+<div align="center">
+  
+I'm a Computer Science student passionate about building AI-powered full-stack applications. I combine modern web technologies with artificial intelligence to create meaningful user experiences. Currently exploring LLMs, RAG systems, and scalable backend architectures.
+
+</div>
 
 ###
 
@@ -63,13 +71,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=omar-mostafa205&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<div align="center">
-  
-  👨‍💻 All of my projects are available at [my portfolio](https://portfolio-iota-coral-59.vercel.app)
-  
+  <img src="https://img.shields.io/github/commit-activity/t/omar-mostafa205/omar-mostafa205?style=for-the-badge&color=bd93f9&label=Total%20Commits" alt="commits"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Repos&style=for-the-badge&color=bd93f9&query=%24.public_repos&url=https://api.github.com/users/omar-mostafa205" alt="repos"  />
 </div>
