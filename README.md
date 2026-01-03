@@ -1,4 +1,4 @@
-<h1 align="center">Hey, What's Up? I'm Omar Mostafa</h1>
+<h1 align="center">Hey 👋 What's Up? I'm Omar Mostafa</h1>
 <h3 align="center">AI Full Stack Developer</h3>
 
 ###
@@ -63,20 +63,13 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=omar-mostafa205&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=omar-mostafa205&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-mostafa205&show_icons=true&locale=en&layout=compact&theme=dracula" alt="top languages" />
-</div>
-
-###
-
-<div align="center">
   
-   All of my projects are available at [my portfolio](https://portfolio-iota-coral-59.vercel.app)
+  👨‍💻 All of my projects are available at [my portfolio](https://portfolio-iota-coral-59.vercel.app)
   
 </div>
