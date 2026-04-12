@@ -1,11 +1,11 @@
 <h1 align="center">Hey, What's Up? I'm Omar Mostafa</h1>
-<h3 align="center">AI Full Stack Developer</h3>
+<h3 align="center">AI Software Engineer</h3>
 
 ###
 
 <div align="center">
   
-I'm a Computer Science student passionate about building AI-powered full-stack applications. I combine modern web technologies with artificial intelligence to create meaningful user experiences. Currently exploring LLMs, RAG systems, and scalable backend architectures.
+I'm an AI Software Engineer passionate about building AI-powered full-stack applications. I combine modern web technologies with artificial intelligence to create meaningful user experiences. Currently exploring LLMs, RAG systems, and scalable backend architectures.
 
 </div>
 
